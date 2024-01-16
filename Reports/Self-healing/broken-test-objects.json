@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg._yb_4eilr",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_pbru - Yahoo Search Results/a_reg.pbru.ac.th  register",
+      "brokenLocator": "//div[@id\u003d\u0027web\u0027]/ol/li/div/div/h3/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h3/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_pbru - Yahoo Search Results/a_reg.pbru.ac.th  register_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Yahoo/Page_Yahoo  Mail, Weather, Search, Politics_802e32/Page_Mcdonalds - Yahoo Search/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg._yb_4eilr",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Yahoo/Page_Yahoo  Mail, Weather, Search, Politics_802e32/Page_Mcdonalds - Yahoo Search/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr_CSS.png"
+    }
+  ]
+}
